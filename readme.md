@@ -4,6 +4,8 @@
 
 This is a command line program that will give you a Tarot reading (from major arcana only).
 
+<img src=logo.png width="600" alt="tarot logo"/>
+
 - Download this repository
 - Navigate to it via the Command Line
 - Type `perl perl-tarot.pl`
