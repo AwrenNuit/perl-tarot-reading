@@ -10,3 +10,5 @@ This is a command line program that will give you a Tarot reading (from major ar
 - Type `Y`
 - Type `Y` again
 - Attempt to reason away the uncanny accuracy of the reading
+
+With questions or concerns, you can reach me at awren.nuit@gmail.com
